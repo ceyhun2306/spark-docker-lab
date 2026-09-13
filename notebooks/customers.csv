@@ -1,0 +1,21 @@
+customer_id,customer_name,age,balance,vip_status
+C001,Rashad Aliyev,23,1230.15,Y
+C002,Sabina Mammadov,60,3651.47,Y
+C003,Sevinj Karimova,19,,Y
+C004,Nigar Guliyev,27,2427.85,Y
+C005,Vusal Guliyev,23,3179.4,N
+C006,Farid Rzayev,52,1246.59,Y
+C007,Tural Karimova,35,1244.93,Y
+C008,Aysel Mammadov,22,1775.62,N
+C009,Kamran Nuriyev,31,,Y
+C010,Zeynab Abbasova,22,4860.2,N
+C011,Nigar Abbasova,31,4112.9,N
+C012,Sevinj Guliyev,23,161.69,Y
+C013,Orkhan Mammadov,33,1010.51,Y
+C014,Nargiz Ismayilova,41,3105.56,N
+C015,Tural Hasanov,35,,Y
+C016,Gunel Mammadov,52,3101.89,Y
+C017,Tural Rzayev,38,1203.73,Y
+C018,Aysel Aliyev,27,4073.37,N
+C019,Nargiz Ismayilova,22,897.11,N
+C020,Leyla Rzayev,38,4400.35,N
